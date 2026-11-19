@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261119/aliftrd/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/aliftrd/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-A one-day world-news digest: the program copies a rendered 1024×1024 front-page poster summarising Thursday 19 November 2026 — the Trump–Xi–Putin trilateral at APEC Shenzhen, the Crimea bridge strike, the ICJ's Rohingya genocide judgment, Anthropic's record IPO debut on Nasdaq, Nvidia's first all-hands after Jensen Huang, GTA VI's worldwide launch and Cyclone Akvan — to `/output/entry.png`, byte for byte, with no network.
+A one-day world-news digest: the program copies a rendered 1024×1024 front page — 37 stories across seven regions, led by the Trump–Xi–Putin trilateral at APEC Shenzhen, the ICJ's Rohingya genocide judgment and Anthropic's record IPO debut on Nasdaq — to `/output/entry.png`, byte for byte, with no network.
 
 ## Run it
 
